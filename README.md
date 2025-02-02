@@ -4,8 +4,6 @@ Language Detector – Flowchart and Cheat Sheet
 By xl-tech
 (https://github.com/xl-tech)
 
-language-detector
-
 Based on flowchart made by soulburner
 (https://habr.com/users/soulburner)
 
