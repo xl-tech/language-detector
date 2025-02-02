@@ -21,3 +21,5 @@ Limitations & Community Involvement:
 
 Usage Note:
 Please use this guide as a starting point for language analysis. Be aware that due to the complexity of natural language, errors may occur. If you encounter any inaccuracies or offensive outputs, please refer to the feedback section and share your insights so that we can enhance and correct the document.
+
+Created in LibreOffice Draw 24.8.4.2
